@@ -1,0 +1,43 @@
+Region ID Continent ID Name
+0  0 00 00 Rock Island
+1  0 00 00 Rock Island
+2  1 00 00 Centre Island
+3  1 00 00 Centre Island
+4  1 00 00 Centre Island
+5  1 00 00 Centre Island
+6  1 00 00 Centre Island
+7  2 00 00 GrassLands
+7  2 00 00 GrassLands
+9  2 00 00 GrassLands
+10 2 00 00 GrassLands
+11 2 00 00 GrassLands
+12 3 00 00 Forbidden Forest
+13 3 00 00 Forbidden Forest
+14 3 00 00 Forbidden Forest
+15 3 00 00 Forbidden Forest
+16 3 00 00 Forbidden Forest
+17 4 00 00 Fillory Rock
+18 5 00 00 Gryffindor Rock
+19 5 00 00 Godric Rock
+Path Information
+0  1 PATH_LAND
+1  3 PATH_SEA
+3  2 PATH_LAND
+3  4 PATH_LAND
+3  6 PATH_LAND
+4  5 PATH_LAND
+6  10 PATH_SEA
+10 9 PATH_LAND
+10 7 PATH_LAND
+10 11 PATH_LAND
+9  14 PATH_SEA
+14 13 PATH_LAND
+14 15 PATH_LAND
+15 16 PATH_LAND
+12 13 PATH_LAND
+12 15 PATH_SEA
+15 17 PATH_SEA
+17 18 PATH_LAND
+18 19 PATH_LAND
+
+

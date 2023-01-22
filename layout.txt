@@ -1,0 +1,47 @@
+-------------------------- A R M I E S --- CITIES --| Draw Pile (20 Cards still in Deck)
+ID CO Territory            P0 P1 P2 P3  P0 P1 P2 P3 | Cost Card
+----------------------------------------------------|  3   Card 1 name & details
+ 0  0 Rock Island           0  0  0  0              |  2   Card 2 name & details
+ 1  0 Rock Island           0  0  0  0              |  2   Card 3 name & details
+ 2  1 Centre Island         0  0  0  0              |  2   Card 4 name & details
+ 3  1 Centre Island         0  0  0  0              |  2   Card 5 name & details
+ 4  1 Centre Island         0  0  0  0              |  1   Card 6 name & details
+ 5  1 Centre Island         0  0  0  0              |
+ 6  1 Centre Island         0  0  0  0              |  Player 1              Player 2
+ 7  2 GrassLands            0  0  0  0              |  Tokens + Cities       Tokens + Cities
+ 8  2 GrassLands            0  0  0  0              |  Card 1 Short Name     Card 1 Short Name
+ 9  2 GrassLands            0  0  0  0              |  Card 2 Short Name     Card 2 Short Name
+10  2 GrassLands            0  0  0  0              |  Card 3 Short Name     Card 3 Short Name
+11  2 GrassLands            0  0  0  0              |  Card 4 Short Name     Card 4 Short Name
+12  3 Forbidden Forest      0  0  0  0              |  Card 5 Short Name     Card 5 Short Name
+13  3 Forbidden Forest      0  0  0  0              |  Card 6 Short Name     Card 6 Short Name
+14  3 Forbidden Forest      0  0  0  0              |  Card 7 Short Name     Card 7 Short Name
+15  3 Forbidden Forest      0  0  0  0              |  Card 8 Short Name     Card 8 Short Name
+16  3 Forbidden Forest      0  0  0  0              |  Card 9 Short Name     Card 9 Short Name
+17  4 Fillory Rock          0  0  0  0              |  Card 10 Short Name     Card 10 Short Name
+18  5 Gryffindor Rock       0  0  0  0              |  Card 11 Short Name     Card 11 Short Name
+19  5 Godric Rock           0  0  0  0              |  Card 12 Short Name     Card 12 Short Name
+-----------------------------------------------------  Card 13 Short Name     Card 13 Short Name
+
+
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXXXXXXXXXXX          XXXXXXXXXXXXXXXXXXXXXXXX           XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXX           XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXXXXXXXXXXX          XXXXXXXXXXXXXXXXXXXXXXXX           XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXXXXXXXXXXX          XXXXXXXXXXXXXXXXXXXXXXXX           XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#19/C1
+0:12+C
+1: 9+C
+
+
+|
+| 1   N
+| 2    N
+| 1  N                             1
+-----------------------------
+ 01 03 04 0                19     C1 C2 C3 C4 C6
